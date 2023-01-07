@@ -17,4 +17,5 @@ https://github.com/GitHub-Pt04/PtSoftwareInstaller/releases
 
 ###リリースノート###
 
+[0.7.4] ちょっと修正
 [0.7.3] 初期リリース
