@@ -8,7 +8,9 @@
 
 中のREADME.txtに簡易的な使い方が書いてあります。
 
-.NET フレームワーク6.0を予め入れておいてください 
+.NET デスクトップ ランタイム 6.0.13を入れておいてください。以下からダウンロードできます。
+
+https://dotnet.microsoft.com/ja-jp/download/dotnet/thank-you/runtime-desktop-6.0.13-windows-x64-installer
 
 ###ダウンロード###
 
