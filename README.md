@@ -21,9 +21,11 @@ https://github.com/GitHub-Pt04/PtSoftwareInstaller/releases
 
 ###リリースノート###
 
+[0.8] GUIを追加
+
 [0.7.6] アップデートプログラムを統一
 
-[0.7.5] GUI追加。
+[0.7.5] GUI追加
 
 [0.7.4] ちょっと修正
 
