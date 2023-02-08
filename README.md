@@ -12,6 +12,23 @@
 
 https://dotnet.microsoft.com/ja-jp/download/dotnet/thank-you/runtime-desktop-6.0.13-windows-x64-installer
 
+###機能###
+
+・アプリのインストール
+
+リストか検索か選べるアプリのインストールです。
+
+・アップデート機能
+
+最新版が公開される度にダウンロードして書き換える必要はありません。
+
+2クリックで簡単にアップデート。
+
+※この機能は0.7.5以降に対応しています。
+
+0.7.3はアップデートに対応していますが、方法が異なるためできません。
+
+
 ###ダウンロード###
 
 下からダウンロードできます
@@ -19,7 +36,7 @@ https://dotnet.microsoft.com/ja-jp/download/dotnet/thank-you/runtime-desktop-6.0
 https://github.com/GitHub-Pt04/PtSoftwareInstaller/releases
 
 
-###リリースノート###
+###(雑な)リリースノート###
 
 [0.8] GUIを追加
 
