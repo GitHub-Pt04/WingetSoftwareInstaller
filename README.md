@@ -20,16 +20,11 @@ https://dotnet.microsoft.com/ja-jp/download/dotnet/thank-you/runtime-desktop-6.0
 
 ・アップデート機能
 
-※この機能は0.7.5以降に対応しています。
-
-0.7.3はアップデートに対応していますが、方法が異なるためできません。
-
-
 ###ダウンロード###
 
 下からダウンロードできます
 
-https://github.com/GitHub-Pt04/PtSoftwareInstaller/releases
+https://github.com/GitHub-Pt04/WingetSoftwareInstaller/releases
 
 
 ###(雑な)リリースノート###
