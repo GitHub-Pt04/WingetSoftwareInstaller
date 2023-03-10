@@ -29,12 +29,4 @@ https://github.com/GitHub-Pt04/WingetSoftwareInstaller/releases
 
 ###(雑な)リリースノート###
 
-[0.8] GUIを追加
-
-[0.7.6] アップデートプログラムを統一
-
-[0.7.5] GUI追加
-
-[0.7.4] ちょっと修正
-
-[0.7.3] 初期リリース
+[0.1] 初期リリース
