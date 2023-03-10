@@ -1,4 +1,4 @@
-# PtSoftwareInstaller
+# WingetSoftwareInstaller
 
 これは"Windows Package Manager"を使用してwingetコマンドでアプリのインストールやアプリのアップデートを簡単にするツールです。
 
